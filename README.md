@@ -8,6 +8,7 @@ B) External Sorting
 
 A)Internal Sorting :
     It has always some subtypes
+    
     a) Selection 
       1. Straight Selection Sort
       2. Heap Sort
