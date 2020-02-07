@@ -11,11 +11,9 @@ A)Internal Sorting :
     a) Selection 
       1. Straight Selection Sort
       2. Heap Sort
-     
     b) Insertion
       1. Straight Insertion Sort
       2. Shell Sort
-      
     c) Exchange
       1. Bubble Sort
       2. Quick Sort
